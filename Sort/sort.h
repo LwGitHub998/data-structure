@@ -1,6 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include "sort.h"
-
+//文字使用的stack相关函数，可查看文件Stack
 typedef int DataType;
 
 //插入排序
